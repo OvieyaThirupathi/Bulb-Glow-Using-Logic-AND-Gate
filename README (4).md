@@ -64,4 +64,4 @@ The project demonstrates how two input conditions can be used to control a bulb/
 ![image alt](https://github.com/OvieyaThirupathi/Bulb-Glow-Using-Logic-AND-Gate/blob/89e0c25e8f4cd176a02ed51de930b1302593db12/and%20c.jpeg)
 
 **13\. Project Images**
-
+  ![image alt](https://github.com/OvieyaThirupathi/Bulb-Glow-Using-Logic-AND-Gate/blob/8dd825a59161968c8220fd3b7baab7258ab3353d/and%20w.jpeg)

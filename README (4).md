@@ -61,6 +61,7 @@ The project successfully demonstrates the working of an AND logic gate, where th
 The project demonstrates how two input conditions can be used to control a bulb/LED using an AND logic gate.
 
 **12\. Circuit Diagram**
+![image alt](https://github.com/OvieyaThirupathi/Bulb-Glow-Using-Logic-AND-Gate/blob/89e0c25e8f4cd176a02ed51de930b1302593db12/and%20c.jpeg)
 
 **13\. Project Images**
 
